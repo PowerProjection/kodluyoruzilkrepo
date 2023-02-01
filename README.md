@@ -6,7 +6,7 @@
 **Öncelikle projeyi clone'layın.**
 
 
-` git clone https://github.com/PowerProjection/kodluyorumilkrepo.git `
+` git clone https://github.com/PowerProjection/kodluyoruzilkrepo.git `
 
 ## **Usage**
 ***Projeyi cloneladıktan sonra Visual Studio Code programında açınız***
@@ -14,7 +14,7 @@
 ### Linux için
 
 ``` 
-cd kodluyorumilkrepo
+cd kodluyoruzilkrepo
 code . 
 ```
 
